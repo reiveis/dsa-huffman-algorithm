@@ -5,6 +5,6 @@
 
 ### Group 1
 - Ammar: \([reiveis](github.com/reiveis)\)
-- Ikhwan: \([](github.com/)\)
+- Ikhwan: \([jiskywalker]([github.com/](https://github.com/jiskywalker))\)
 - Azry: \([alex6046](github.com/alex6046)\)
 - Bahrul: \([kaidehara](github.com/kaidehara)\)
